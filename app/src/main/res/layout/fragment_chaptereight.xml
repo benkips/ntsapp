@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.chaptereight">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/_8sdp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="UNIT 8: VEHICLE CONTROL"
+            android:textColor="@color/purple_500"
+            android:textSize="@dimen/_20sdp"
+            android:textStyle="bold" />
+
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adViewone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            ads:adSize="LARGE_BANNER"
+            android:layout_gravity="center"
+            ads:adUnitId="ca-app-pub-4814079884774543/3840483252"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chapter8a"
+            android:textSize="@dimen/_18sdp" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_300sdp"
+            android:src="@drawable/steeringvehicle" />
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adViewtwo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            ads:adSize="LARGE_BANNER"
+            android:layout_gravity="center"
+            ads:adUnitId="ca-app-pub-4814079884774543/3840483252"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chapter8b"
+            android:textSize="@dimen/_18sdp" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_300sdp"
+            android:src="@drawable/angleparking" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_300sdp"
+            android:src="@drawable/flashparking" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_300sdp"
+            android:src="@drawable/parallelparking" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chapter8c"
+            android:textSize="@dimen/_18sdp" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_300sdp"
+            android:src="@drawable/jturns" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chapter8d"
+            android:textSize="@dimen/_18sdp" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_300sdp"
+            android:src="@drawable/uturn" />
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adViewthree"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            ads:adSize="LARGE_BANNER"
+            android:layout_gravity="center"
+            ads:adUnitId="ca-app-pub-4814079884774543/3840483252"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chapter8e"
+            android:textSize="@dimen/_18sdp" />
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adViewfour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            ads:adSize="LARGE_BANNER"
+            android:layout_gravity="center"
+            ads:adUnitId="ca-app-pub-4814079884774543/3840483252"/>
+    </LinearLayout>
+
+</ScrollView>

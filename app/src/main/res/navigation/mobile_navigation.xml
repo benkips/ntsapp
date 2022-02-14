@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/launcher">
+
+    <fragment
+        android:id="@+id/main"
+        android:name="com.mabnets.ntsaapp.fragments.Main"
+        android:label="Learners Handbook"
+        tools:layout="@layout/fragment_main" >
+        <action
+            android:id="@+id/action_main_to_chaptertwo"
+            app:destination="@id/chaptertwo" />
+        <action
+            android:id="@+id/action_main_to_chapterone"
+            app:destination="@id/chapterone" />
+        <action
+            android:id="@+id/action_main_to_chapterthree"
+            app:destination="@id/chapterthree" />
+        <action
+            android:id="@+id/action_main_to_chapterfour"
+            app:destination="@id/chapterfour" />
+        <action
+            android:id="@+id/action_main_to_chapterfive"
+            app:destination="@id/chapterfive" />
+        <action
+            android:id="@+id/action_main_to_chaptersix"
+            app:destination="@id/chaptersix" />
+        <action
+            android:id="@+id/action_main_to_chapterseven"
+            app:destination="@id/chapterseven" />
+        <action
+            android:id="@+id/action_main_to_chaptereight"
+            app:destination="@id/chaptereight" />
+        <action
+            android:id="@+id/action_main_to_chapternine"
+            app:destination="@id/chapternine" />
+        <action
+            android:id="@+id/action_main_to_chapterthirteen"
+            app:destination="@id/chapterthirteen" />
+        <action
+            android:id="@+id/action_main_to_chaptertwenty"
+            app:destination="@id/chaptertwenty" />
+        <action
+            android:id="@+id/action_main_to_chaptertwelve"
+            app:destination="@id/chaptertwelve" />
+        <action
+            android:id="@+id/action_main_to_chapterten"
+            app:destination="@id/chapterten" />
+        <action
+            android:id="@+id/action_main_to_chaptertwentyone"
+            app:destination="@id/chaptertwentyone" />
+        <action
+            android:id="@+id/action_main_to_chaptersixteen"
+            app:destination="@id/chaptersixteen" />
+        <action
+            android:id="@+id/action_main_to_chapterseventeen"
+            app:destination="@id/chapterseventeen" />
+        <action
+            android:id="@+id/action_main_to_chapternineteen"
+            app:destination="@id/chapternineteen" />
+        <action
+            android:id="@+id/action_main_to_chapterfourteen"
+            app:destination="@id/chapterfourteen" />
+        <action
+            android:id="@+id/action_main_to_chapterfifteen"
+            app:destination="@id/chapterfifteen" />
+
+
+        <action
+            android:id="@+id/action_main_to_chaptereleven"
+            app:destination="@id/chaptereleven" />
+        <action
+            android:id="@+id/action_main_to_chaptereighteen"
+            app:destination="@id/chaptereighteen" />
+        <action
+            android:id="@+id/action_main_to_trafficsigns"
+            app:destination="@id/trafficsigns" />
+    </fragment>
+    <fragment
+        android:id="@+id/chapterone"
+        android:name="com.mabnets.ntsaapp.fragments.chapterone"
+        android:label="INTRODUCTION TO DRIVING"
+        tools:layout="@layout/fragment_chapterone" />
+    <fragment
+        android:id="@+id/chaptertwo"
+        android:name="com.mabnets.ntsaapp.fragments.chaptertwo"
+        android:label="FUNDAMENTAL DRIVING RULES"
+        tools:layout="@layout/fragment_chaptertwo" />
+    <fragment
+        android:id="@+id/chapterthree"
+        android:name="com.mabnets.ntsaapp.fragments.chapterthree"
+        android:label="MODEL TOWN"
+        tools:layout="@layout/fragment_chapterthree" />
+    <fragment
+        android:id="@+id/chapterfour"
+        android:name="com.mabnets.ntsaapp.fragments.chapterfour"
+        android:label="HUMAN FACTORS IN TRAFFIC" />
+    <fragment
+        android:id="@+id/chapterfive"
+        android:name="com.mabnets.ntsaapp.fragments.chapterfive"
+        android:label="VEHICLE CONSTRUCTIONS AND CONTROLS"
+        tools:layout="@layout/fragment_chapterfive" />
+    <fragment
+        android:id="@+id/chaptersix"
+        android:name="com.mabnets.ntsaapp.fragments.chaptersix"
+        android:label="SELF - INSPECTION OF VEHICLE"
+        tools:layout="@layout/fragment_chaptersix" />
+    <fragment
+        android:id="@+id/chapterseven"
+        android:name="com.mabnets.ntsaapp.fragments.chapterseven"
+        android:label="OBSERVATION"
+        tools:layout="@layout/fragment_chapterseven" />
+    <fragment
+        android:id="@+id/chaptereight"
+        android:name="com.mabnets.ntsaapp.fragments.chaptereight"
+        android:label="VEHICLE CONTROL"
+        tools:layout="@layout/fragment_chaptereight" />
+    <fragment
+        android:id="@+id/chapternine"
+        android:name="com.mabnets.ntsaapp.fragments.chapternine"
+        android:label="COMMUNICATION ON THE ROAD"
+        tools:layout="@layout/fragment_chapternine" />
+    <fragment
+        android:id="@+id/chaptereighteen"
+        android:name="com.mabnets.ntsaapp.fragments.chaptereighteen"
+        android:label="EMERGENCY PROCEDURES"
+        tools:layout="@layout/fragment_chaptereighteen" />
+    <fragment
+        android:id="@+id/chaptereleven"
+        android:name="com.mabnets.ntsaapp.fragments.chaptereleven"
+        android:label="SPACE MANAGEMENT"
+        tools:layout="@layout/fragment_chaptereleven" />
+    <fragment
+        android:id="@+id/chapterfifteen"
+        android:name="com.mabnets.ntsaapp.fragments.chapterfifteen"
+        android:label="PREVENTIVE MAINTENANCE"
+        tools:layout="@layout/fragment_chapterfifteen" />
+    <fragment
+        android:id="@+id/chapterfourteen"
+        android:name="com.mabnets.ntsaapp.fragments.chapterfourteen"
+        android:label="ADVERSE DRIVING CONDITIONS"
+        tools:layout="@layout/fragment_chapterfourteen" />
+    <fragment
+        android:id="@+id/chapternineteen"
+        android:name="com.mabnets.ntsaapp.fragments.chapternineteen"
+        android:label="WORK PLANNING"
+        tools:layout="@layout/fragment_chapternineteen" />
+    <fragment
+        android:id="@+id/chapterseventeen"
+        android:name="com.mabnets.ntsaapp.fragments.chapterseventeen"
+        android:label="HAZARDOUS MATERIALS"
+        tools:layout="@layout/fragment_chapterseventeen" />
+    <fragment
+        android:id="@+id/chaptersixteen"
+        android:name="com.mabnets.ntsaapp.fragments.chaptersixteen"
+        android:label="CONDITIONS OF CARRIAGE"
+        tools:layout="@layout/fragment_chaptersixteen" />
+    <fragment
+        android:id="@+id/chaptertwentyone"
+        android:name="com.mabnets.ntsaapp.fragments.chaptertwentyone"
+        android:label="THE EXAMINATION"
+        tools:layout="@layout/fragment_chaptertwentyone">
+        <action
+            android:id="@+id/action_chaptertwentyone_to_trafficsigns"
+            app:destination="@id/trafficsigns" />
+    </fragment>
+    <fragment
+        android:id="@+id/chapterten"
+        android:name="com.mabnets.ntsaapp.fragments.chapterten"
+        android:label="SPEED MANAGEMENT"
+        tools:layout="@layout/fragment_chapterten" />
+    <fragment
+        android:id="@+id/chaptertwelve"
+        android:name="com.mabnets.ntsaapp.fragments.chaptertwelve"
+        android:label="EMERGENCY MANOEUVRES"
+        tools:layout="@layout/fragment_chaptertwelve" />
+    <fragment
+        android:id="@+id/chapterthirteen"
+        android:name="com.mabnets.ntsaapp.fragments.chapterthirteen"
+        android:label="SKID CONTROL AND RECOVERY"
+        tools:layout="@layout/fragment_chapterthirteen" />
+    <fragment
+        android:id="@+id/chaptertwenty"
+        android:name="com.mabnets.ntsaapp.fragments.chaptertwenty"
+        android:label="CUSTOMER CARE"
+        tools:layout="@layout/fragment_chaptertwenty" />
+    <fragment
+        android:id="@+id/trafficsigns"
+        android:name="com.mabnets.ntsaapp.fragments.Trafficsigns"
+        android:label="TRAFFIC SIGNS"
+        tools:layout="@layout/fragment_trafficsigns" />
+    <fragment
+        android:id="@+id/launcher"
+        android:name="com.mabnets.ntsaapp.fragments.Launcher"
+        android:label="fragment_launcher"
+        tools:layout="@layout/fragment_launcher" >
+        <action
+            android:id="@+id/action_launcher_to_main"
+            app:destination="@id/main"
+            app:popUpTo="@id/launcher"
+            app:popUpToInclusive="true"/>
+    </fragment>
+</navigation>

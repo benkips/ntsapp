@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/banner_ad.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/chaptersinf.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chaptereight.xml" value="0.1" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chaptereighteen.xml" value="0.10916179337231968" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chaptereleven.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chapterfifteen.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chapterfive.xml" value="0.1" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chapterfour.xml" value="0.1" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chapterfourteen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chapternine.xml" value="0.1" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chapternineteen.xml" value="0.11057827926657264" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chapterone.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chapterseven.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chapterseventeen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chaptersix.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chaptersixteen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chapterten.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chapterthirteen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chapterthree.xml" value="0.1" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chaptertwelve.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chaptertwenty.xml" value="0.1438004402054292" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chaptertwentyone.xml" value="0.1331521739130435" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_chaptertwo.xml" value="0.13163972286374134" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_launcher.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ben/AndroidStudioProjects/Ntsaapp/app/src/main/res/layout/fragment_trafficsigns.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

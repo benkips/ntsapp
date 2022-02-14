@@ -1,0 +1,1623 @@
+<resources>
+    <string name="app_name">Ntsa Driver Learner Manual</string>
+    <string-array name="Chapters">
+        <item>1:  INTRODUCTION TO DRIVING</item>
+        <item>2:  FUNDAMENTAL DRIVING RULES</item>
+        <item>3:  MODEL TOWN</item>
+        <item>4:  HUMAN FACTORS IN TRAFFIC</item>
+        <item>5:  VEHICLE CONSTRUCTIONS AND CONTROLS</item>
+        <item>6:  SELF - INSPECTION OF VEHICLE</item>
+        <item>7:  OBSERVATION</item>
+        <item>8:  VEHICLE CONTROL</item>
+        <item>9:  COMMUNICATION ON THE ROAD</item>
+        <item>10: SPEED MANAGEMENT</item>
+        <item>11: SPACE MANAGEMENT</item>
+        <item>12: EMERGENCY MANOEUVRES</item>
+        <item>13: SKID CONTROL AND RECOVERY</item>
+        <item>14: ADVERSE DRIVING CONDITIONS</item>
+        <item>15: PREVENTIVE MAINTENANCE</item>
+        <item>16: CONDITIONS OF CARRIAGE</item>
+        <item>17: HAZARDOUS MATERIALS</item>
+        <item>18: EMERGENCY PROCEDURES</item>
+        <item>19: WORK PLANNING</item>
+        <item>20: CUSTOMER CARE</item>
+        <item>21: THE EXAMINATION</item>
+        <item>TRAFFIC SIGNS</item>
+        <item>MODEL TOWN ILLUSTRATIONS</item>
+    </string-array>
+    <string name="chapter_one">Motor vehicles are an important part of our day-to-day living and provide
+        a means for people and goods to be transported from one location to another.
+
+        <br>The goal of driver training is ensure that you, as the driver, are equipped with
+        the right knowledge of how to handle your vehicle and how to act appropriately when using the road.\n
+        </br>\n
+
+        <br>
+        Most traffic accidents are caused by human error, however this can be easily
+        prevented when the driver is adequately prepared for the traffic situation. This
+        training also ensures that you are prepared with the necessary skills to provide
+        safe and efficient transport services for goods and for passengers.\n
+        </br>\n
+    </string>
+    <string name="chapter_two">
+The road is governed by rules and regulations that ensure order is
+maintained on the roads at all times. These rules and regulations are derived from
+international, regional and Kenyan law. As a road user, you should be
+knowledgeable of these rules as it is the initial step in ensuring that you and other
+road users are safe on the road.
+\n<br><b>These rules and regulations can be found in the following documents:</b></br>\n
+\n• The Traffic Act
+\n• The Highway Code\n
+\n<br><b>The Traffic Act</b></br>\n
+The Traffic Act sets out the laws that govern the use of roads and the expected
+conduct of road users. It also includes some of the penalties and fines for road
+users who do not abide by these laws.
+\n<br><b>Highway Code</b></br>\n
+The Highway Code is a set of information, advice, guides and mandatory
+rules for all road users in Kenya. It provides guidelines for animal, pedestrians,
+cyclists and motorcyclists. The purpose of the Highway Code is to promote
+safety, responsible behaviour and courtesy at all times.
+It is your responsibility as a road user to read the Traffic Act and Highway Code
+and learn the essential rules for safe driving or riding and the general rules of
+behaviour in traffic regarding safety, courtesy and responsibility.
+Below are some of the traffic regulations that can also be found in the Traffic Act
+and the Highway Code:
+\n<br><b>Use of the horn, when necessary, to warn other road-users</b></br>\n
+\n• You may only use your car horn while your vehicle is moving and you
+need to warn other road users of your presence
+\n• Do not use the horn when you are stationary on the road
+\n• Do not use the horn aggressively even when the other road users are
+at fault
+\n• Do not use your horn at places where the ‘No Hooting’ sign has been
+placed
+• Do not use your horn and at designated areas where hooting is
+always prohibited e.g. hospitals and schools
+\n<br><b>Give right-of-way for specific vehicles, road users or in specific
+situations such as</b></br>\n
+• Police cars
+• Emergency vehicles such as fire engines and ambulances sounding the
+siren or with flashing lights
+• The presidential motorcade
+• When asked to do so by a police officer or traffic marshall
+\n<br> <b>Pedestrian range</b></br>\n
+• You should not ride or drive in areas of the road designated for
+pedestrians and cyclists
+\n<br><b>Traffic Signs and Signals</b></br>\n
+Traffic signs and signals are used to communicate on the road.
+\n• There are two types of traffic signals; hand signals and light signals
+\n• Traffic signs are used to guide, provide information and warn all road
+users. Most signs fall within three broad categories although there are
+exceptions. These
+    </string>
+    <string name="chapter_three_a">
+The model town board is an example of a road network on a board. It is a
+simplified representation used to explain the types of roads found in major towns
+of Kenya and East Africa.
+        <br><b>The model town board has several features. These features are:</b></br>\n
+The model town board has several features. These features are:\n
+        <br><b>1. One way traffic road</b></br>\n
+        <br><b>2. Two way traffic road</b></br>\n
+        <br><b>3. Roundabout</b></br>\n
+        <br><b>4. Parking zones</b></br>\n
+        <br><b>5. Yellow kerb</b></br>\n
+        <br><b>6. Pedestrian crossing</b></br>\n
+        <br><b>7. Stop sign</b></br>\n
+        <br><b>8. Give way sign</b></br>\n
+        <br><b>9. Exit from main road</b></br>\n
+        <br><b>10. Exit from controlled parking zone</b></br>\n
+        <br><b>11. Road markings – arrows, reflectors, and delta marks etc.</b></br>\n
+<br><b>The model</b></br>\n
+ </string>
+    <string name="chapter_three_b">
+        \n<br><b> A. One Way Traffic Road (Dual Carriage Way)</b></br>\n
+        • This is a road where all traffic vehicles move in one direction. A road
+        with white continuous or broken lines dividing the lanes into equal parts
+        \n• A white continuous line means no changing lanes or overtaking
+        \n• A white dotted or broken lines means you can overtake or change
+        lanes if the road is clear/safe
+        \n• Land or field refers to the green part on the left side of the road.
+        A yellow marking protects the field. This yellow marking is known as
+        the yellow kerb
+        \n• Yellow kerb means no overlapping, no parking, no waiting and no
+        stopping.
+        \n• The central reserve separates one-way traffic road
+       \n • In between the central reserve, there is an exit from the main road or
+        U-turn
+        \n• A double yellow line separates a three-lane road or streets into equal
+        parts. Vehicles in a street or an avenue move in one direction
+    </string>
+    <string name="chapter_three_c">
+     \n<br><b>B.Two Way Traffic Road/Single Carriageway</b></br>\n
+    \n• This is a road where vehicles move in opposite direction. A road with
+    single continuous or broken yellow line at the centre dividing the road
+    into two equal parts
+    \n• Yellow continuous line means you stick to your side or no overtaking
+    \n• Yellow broken line means you can overtake if the road is clear. On a
+    single carriageway, all drivers need to obey the rules of roads in Kenya
+    (keep left unless overtaking)
+   \n • There is a safe and marked area on the road known as a
+    pedestrian crossing where the driver needs to slow down and stop so as to
+    enable pedestrians to cross from one side of the road to another
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="chapter_three_d">
+      \n <b>Roundabout</b>
+\n• This is a meeting point of traffic where more than two roads meet at a
+point
+\n• The function of a roundabout is to facilitate the movement of vehicles in
+different directions without any obstruction or collision
+
+    </string>
+    <string name="chapter_three_e">
+\n<b>Rules of the roundabout:</b>
+\n i. No stopping
+\n ii. No changing lanes
+\n iii. No parking
+\n iv. No overtaking
+\n v. No waiting
+    </string>
+    <string name="chapter_three_f">
+\n<b>The roundabout is divided into 3 parts.</b>
+\n i. Traffic Island: Green part at the centre of the roundabout used to
+control the movement of the vehicles.
+\n ii. Innermost lane (Lane 4): It is the only lane that allows the driver to go
+round and make a full circle or a 360° angle from a four lane road.
+The innermost lane is the only lane where a driver/rider is allowed to
+make a 270° angle from a three lane road.
+\n iii. Space (Lane 3, 2 and 1): Drives on these lanes are not allowed to
+make a full circle or a 360° angle.
+\n • You are required to keep left and move in a clockwise direction on the
+roundabout
+\n • Lanes are counted/numbered from the outermost lane to the innermost
+lane
+\n<b>Common mistakes made when approaching the roundabout:</b>
+\n i. Approaching the roundabout in wrong lane.
+\n ii. Leaving/exiting the roundabout in the wrong lane.
+\n iii. Changing lanes on the roundabout.
+\n iv. Incorrectly observing the traffic lights.
+
+\n<b>Parking zones</b>
+The model town board has two types of parking:
+\n i. Angle/ample/controlled parking zone.
+\n ii. Flush/parallel/uncontrolled parking zone.
+\n<b>Angle Parking</b>:\n  In angle parking, vehicles are designated to flow in one
+\n direction. The parking area has a designated entrance and exit from both sides.
+These are the rules for angle parking:
+\n i. Strictly for small cars only (Saloon).
+\n ii. Park from the farthest end (far end).
+\n iii. Park by forward gear (direct).
+\n iv. Leave/exit by reverse.
+\n <b>Flush parking</b>: \n This kind of parking is found on the left side of road in the
+direction of traffic. It has no security thus it is an uncontrolled parking zone. The
+rules for flush parking are:
+\n i. All types of vehicles except tractors and trailers can park here.
+\n ii. It has an entry but you must leave space for the exit.
+\n iii. Park from the farthest end.
+\n iv. Park by reverse.
+\n v. Leave/exit by forward (direct) driving.
+\n<b>Stop Sign</b>\n
+
+It is a red in colour and is an eight-sided figure (octagon) with white letters.
+It is positioned at a junction when joining a two-way traffic road.
+Traffic or vehicles are required to stop and look right, left and right again and
+only proceed if the road is clear.
+
+\n<b>Give Way/ Yield Sign</b>\n
+
+This is a red triangular shape with the apex facing downward. It has a white
+border.
+Vehicles are required to slow down or stop if necessary and then only proceed if
+it is safe.
+\n<b>RULES OF THE MODEL TOWN BOARD</b>\n
+\n • Use the shortest and most correct route without using the parking
+\n • Use the longest and most correct route without using the parking
+\n • Only use the parking zone as a route as a last option (if there is no
+other route)
+
+\n <b>Directions on a four-lane road when approaching a roundabout</b>\n
+\n<b>Lane 1 has two options</b>
+\n• Stay on lane 1, Go straight, 0°
+\n• Turn left at 90°
+\n<b>Lane 2 has one option</b>
+\n• Go straight only,0°\n
+\n<b>Lane 3 has two options</b>
+\t\n\• Stay on lane 3, go straight
+\t\n\• Turn right at 90°
+\t\n\<b>Lane 4 has four options</b>
+\t\n\• Turn right at 90°
+\t\n\• Come back at 180°
+\t\n\• Turn left 270°
+\t\n\• Go straight 360° after going round the roundabout clockwise direction
+\n <b>Directions on a three-lane road when approaching the roundabout</b>
+The system is (2, 1, 5)
+\n<b>Lane 1 has two options</b>
+\n• Go straight 0°
+\n• Turn left at 90°
+\n<b>Lane 2 has one option</b>
+\n• Go straight only 0°
+\n<b>Lane 3 has five options</b>
+\n• Go straight 0°
+\n• Turn right
+\n• Turn right, stay on lane 3, enter on lane 4 at 90°
+\n• Come back on lane 3, and enter 3 at 180°
+\n• Turn left on lane 3, enter on lane 3 at 270° and then shift to lane 4 on
+the broken line
+    </string>
+    <string name="chapter_4a">
+\n <b>Observation</b>
+\n When using the road, pay attention to your surroundings and stay alert whether
+you are walking, cycling, riding or driving a motor vehicle. Most accidents can
+be avoided when road users stay attentive.
+\n<b>Some rules for observation include:</b>
+\n• Keep your eyes moving. Do not just focus on one angle
+\n• Get a wide view of what is ahead and behind you. This allows you to
+create enough room between you and the other road users
+\n• When driving or riding, make use of all mirrors; the rear view and wide
+view mirrors
+\n• Pay attention to the vehicle instruments
+\n• Ensure that other road users can see you
+\n• Watch other road users and in particular for cyclists, motorcyclists and
+pedestrians
+\n• When passing parked cars, watch out for opening doors and exiting
+passengers
+\n• Give special attention to vulnerable road users such as children, elderly
+people and persons with disabilities
+\n• Give special attention to users of non- motorized transportation such as
+horses, donkey carts, handcarts, bicycles and wheelchairs
+\n<b>Health and Safety</b>
+\n Health refers to your physical and mental wellbeing. It is important that at all
+times you make choices that will not interfere with your wellbeing. Any road user
+is more likely to make better judgment if they are in good health. The following
+are some of the issues that may interfere to ride safely
+\n<b>Eyesight and vision</b>
+\n• Check your eyes. If you need spectacles to meet the required eyesight
+standard, ensure that you wear them before starting any journey
+\n• It is dangerous and risky to ride with incorrected defective vision
+\n• Do not wear sunglasses or tinted helmet visors at night or in
+conditions of poor visibility
+\n<b>Fatigue</b>
+\n Fatigue is extreme tiredness as a result of mental or physical exertion. Do not
+start a journey if you feel tired
+\n<b>The following may cause fatigue:</b>
+\n• Insufficient sleep or rest
+\n• An extended length of time performing the same task
+\n• Sleep disorders and other illnesses
+\n• Driving at the time of day when you are usually resting or sleeping e.g.
+night driving, early morning driving
+\n<b>Fatigue decreases your ability to make the right decisions, to avoid
+    driver fatigue;</b>
+\n• Get quality sleep before driving
+\n• Take regular breaks when driving over long distances
+\n• Eat balanced meals at regular intervals
+\n• Keep fit and healthy
+\n• Avoid driving or riding your motorcycle at night. This is when you are
+likely to feel sleepy
+\n • If you feel tired, stop at a safe place and rest
+\n <b>Distractions</b>
+\n Distractions in driving can be described as anything that reduces your ability to
+respond as quickly as you should during an emergency. For this reasons some
+of these ordinary activities are prohibited for drivers.
+\n<b>Using hand held devices</b>
+\n• Using a cell phone, whether talking or texting, your ability to be keen
+on the road. Statistics indicate that the accident rate is significantly
+reduced when motorists refrain from using hand held devices. As a
+safety precaution, it is best to switch of phones so that ringing phone is
+not a distraction. Alternatively, it is good to put the cell phone or other
+devices out of reach for the duration of the journey.
+\n<b>Radio</b>
+\n• It is fine to listen to the radio while driving but refrain from adjusting the
+volume, changing CDs or Mp3’s while driving.
+Grooming, smoking, and eating:
+\n• Though these may be seen as fairly simple tasks, they are distracting.
+Do these before or at the end of the journey.
+Video devices:
+\n• These should not ever be placed in the driver’s area of vision.
+Passenger sitting in the rear can have these but the volume must always
+be controlled to ensure that it is not distracting you as the driver.
+Communicating with passengers and other drivers:
+\n• Any of these can cause the motorist to lose focus.
+\n<b>GPS units:</b>
+\n It is always best to get directions for your destination before starting the journey.
+A GPS unit is an electronic device used to help the driver navigate through the
+road to the desired destination. The driver should always set the device before
+starting the journey.
+\n <b>Carbon monoxide poisoning:</b>
+\n Carbon monoxide is an odourless gas emitted in
+the exhaust fumes. It can be lethal. For this reason, it is important to always check
+the exhaust system for any leakages. Never run the engine in an enclosed space
+and if you feel drowsy while driving, stop the car and get out for some fresh air.
+\n <b>Alcohol, Drugs and Medicine</b>
+\n• Alcohol and certain drugs will affect your ability to drive your vehicle
+\n• Do not drink and ride your motorcycle or drive.
+\n•<b>Some of the effects of alcohol are</b> ;
+
+\n <b>i</b>. Alcohol slows down your brain functions. This affects your ability to
+respond, make decisions or react quickly
+\n<b>ii</b> . Alcohol reduces your ability to judge how fast you are moving or your
+distance from other cars, people or objects
+\n<b>iii</b>. It gives you false confidence – you may take greater risks because
+you think your driving is better than it really is
+\n<b>iv</b>. It makes it harder for you to concentrate and pay attention to various
+details in traffic
+ \n<b>v</b>. Alcohol also affects your sense of balance
+    </string>
+    <string name="chapter_4b">
+\n• A Police Breathalyser (ALCOBLOW) can measure your Blood Alcohol
+Concentration (BAC) accurately. It is an offence to refuse, or fail to
+comply with, a direction of a police officer in relation to an alcohol test
+\n• Should you choose to drink alcohol, designate a non-drinking driver,
+take a taxi home or use public transport
+\n• Only accept a lift if you are certain the driver has not been drinking or
+using other drugs
+\n• Do not take medicine which causes drowsiness if you intend to use the
+road
+\n• Do not ride your motorcycle or drive if you are unwell
+\n<b>Safety Belts</b>
+\n• All passengers must wear safety belts at all times no matter how short
+the distance being travelled
+\n• You must fasten your safety belt correctly
+\n• Use appropriate child restraints for children e.g. a booster seat is
+recommended for children under 12. A booster seat is designed to
+enhance safety by ensuring that vehicle seat belt fits properly).
+    </string>
+    <string name="chapter_4c">
+\n<b>Litter</b>
+\n• DO NOT discard litter on the roads
+\n• Litter can be a hazard to you and other road users
+\n• Always dispose off litter in the dustbin before or at the end of your
+\n<b>journey</b>
+\nRoad Rage and other forms of aggression
+\n• Be courteous on the road
+\n• If another road user provokes you do not retaliate
+\n<b>Prevention of theft</b>
+\nWhen you leave your vehicle:
+\n• Switch off the ignition and remove the keys
+\n• When you park your vehicle ensure that it is appropriately secured to
+reduce the risk of theft
+\n• Lock all windows and the car boot
+\n<b>Limitations in Number of Passengers and Quantity of Goods</b>
+\nDo not carry more than the legally allowed number of passengers or weight
+of goods. Below is a table indicating the weight and the number of passenger
+allowed
+    </string>
+    <string name="chapter_4d">
+\n• When loading the vehicle items should be as low as possible and as
+close to the centre of the vehicle as possible
+\n• Do not put items on the roof unless you have a designated luggage
+compartment for this purpose.
+\n• Do not overload the vehicle.
+\n• Check the tyre pressure to ensure that the tyres can handle the weight
+of the vehicle. When tyre pressure is too high or too low the vehicle will
+be unstable.
+\n<b>Safety Equipment</b>
+All motorists should have certain safety equipment that could be used in
+case of an emergency.
+    </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reflective_triangle">All motor vehicles (excluding motorcycles) should have these at all times. The reflector should be used when the motor vehicle for any given reason stops on the road. These should be placed 60 metres ahead and 60 metres behind a disabled vehicle.</string>
+    <string name="first_aid">A fully equipped first aid kit should have the following items - gauze dressings, triangular bandages, rolled bandages, safety pins, disposable sterile gloves, tweezers, scissors, alcohol-free cleansing wipes, sticky tape, antiseptic cream, painkillers such as paracetamol, antihistamine tablets, distilled water for cleaning wounds, eye wash and eye bath</string>
+    <string name="Tool_box">Tools such as a jack and spanner can be used to do minimal repair when the vehicle is disabled.</string>
+    <string name="fire_extinguishers">This enables the motorist to deal with fire emergencies. Ensure that the fire extinguisher is inspected regularly to ensure that it is good working condition.</string>
+    <string name="fire_axe">In the event of a fire, the fire axe is a handy tool to rescue passengers.</string>
+    <string name="tow_ropes">This rope is reinforced to handle the weight of the car and can be used to tow vehicles in case of a breakdown.</string>
+    <string name="spare_tyre">It is important to have an inflated spare tyre and restore the deflated tyre back as soon as possible This tyre should be inflated</string>
+    <string name="jumpstart_cable">The jumpstart cable is used to reignite the engine.</string>
+    <string name="survival_gear">This is particularly important for motorists operating in places with extreme conditions such as extreme cold, extreme heat and rough terrain that is likely to damage the car. Survival gear may include blankets, a torch, a small supply food and water.</string>
+    <string name="chapter5a">This chapter gives an overview of the light motor vehicle construction and controls. You will also learn where these parts are situated in the light vehicle and how they function.
+        \nThis is the control panel placed at the front of the vehicle or dashboard. The dashboard has instruments and controls used to run the vehicle. You should get to know the names and location of these controls. You should also know how these controls and instruments function and how to maintain them. There are slight differences in the dashboard depending on the make and model of the vehicle.
+        \n <b>Below is a table indicating some of the components of a vehicle and their functions</b></string>
+    <string name="steering_wheel">This is used to change direction, or maintain the one you’re driving in. Both hands should be on the steering wheel at all times except to change gears or to indicate.</string>
+    <string name="direction_indicator">Used to indicate you wish to turn - signals turning left or right.</string>
+    <string name="gear_lever">Used to change gears.</string>
+    <string name="hand_brake">Used to keep your vehicle stationary, especially on inclines.</string>
+    <string name="brake_pedal">Used to slow your speed or to stop</string>
+    <string name="accelerator">Used to increase your speed.</string>
+    <string name="clutchpedal">Used to change gears in a manual vehicle</string>
+    <string name="rearviewmirror">Used to see other vehicles and hazards behind you for safety.</string>
+    <string name="side_mirror">Used to see vehicles behind and to your side for safety.</string>
+    <string name="wind_screenwipers">Used to turn your windscreen wipers on, off or to a higher or lower wiper setting for a clear view while driving in rain. Also used to try to clean your windscreen</string>
+    <string name="speedometer">Used to see at what speed you’re driving at.</string>
+    <string name="tempguage">Used to check the vehicle’s temperature to make sure the engine is not over- heating.</string>
+    <string name="chapter_6">
+\n Before embarking on a journey, any responsible driver should ensure that the
+vehicle is in the right condition for the journey. Self- inspection refers to checking
+on different aspects of the motor vehicle to ensure that it is safe to use. Self –
+inspection allows the driver to know what maintenance or repair work ought to
+be done. Self-inspection should also be done at the end of the journey so that the
+driver or vehicle owner can plan for any repairs.
+        \n<b>Self- inspection is divided into two parts.</b>
+\n\t• Exterior inspection
+\n\t• Interior Inspection
+\nIt is also important for the driver to know the common anomalies that may occur
+during long distance travel.
+        \n<b>Exterior Inspection</b>
+\nThis is the inspection that the driver of the vehicle undertakes before starting the
+journey. There are various vehicle components that should be inspected before
+driving off. These are
+\n1. Tyres
+\n2. Reflectors and lights
+\n3. Mirrors
+\n4. Windshield Wipers
+\n5. Windows
+\n6. The Body
+\n7. Cleanliness
+\n8. Safety Belts
+\n9. Emergency equipment
+\n10. Paperwork
+        \n<b>1. Tyres Safety Check</b>
+\nIt is important that the vehicle tyres are always in good condition. When tyres
+are in good condition, the driver is able to brake properly and to turn corners
+with ease.
+\n• Give your tyres a visual inspection before and after every journey
+\n• Small stones wedged in the tread can cause problems later
+\n• Ensure that tyre treads are in good condition. Replace aging tyres
+\n• Ensure that the tyres are securely fastened
+\n• Check the tyre pressure
+\n• Recognize the danger of underinflated and overinflated tyres. Both are
+harmful to the tyre
+\n• Ensure you have a spare tyre that is in good condition
+        \n<b>2. Reflectors and Lights</b>
+\n• Ensure that the headlights, turn signals, and hazard lights are
+operational
+\n• Where possible, ask for assistance in checking the reverse lights since
+this can only be done when the vehicle is reversing
+        \n<b>3. Mirrors</b>
+\n• Make sure that all your mirrors are present, properly adjusted and
+unobstructed before driving the vehicle
+        \n<b>4. Windshield Wipers</b>
+\n• The windshield wipers must work at all setting
+\n• Make sure that you have wiper fluid
+        \n<b>5. Windows</b>
+\n• Check all the windows, ensure that they can open and shut without
+difficulty
+\n• Ensure that the roll up handle is functional
+        \n<b>6. The Body</b>
+\n• Inspect the exterior body for any damage such as dents and scratches.
+        \n<b>7. Cleanliness</b>
+\n• Ensure that the vehicle is clean. Make sure that the windscreen,
+windows and mirrors are clean for ease of navigation
+\n• Ensure that your vehicle interior is clean and free of clutter to
+minimise distraction while driving and ensure that your passengers are as
+comfortable as possible
+        \n<b>8. Safety Belts and Car Seats</b>
+\n• Inspect the safety belts to ensure that they are still functional i.e.
+the clasps should work correctly and the safety belts should be able to
+\n• The safety belts should be clean
+\n• If using special child safety seats or booster seats ensure that they are
+also in good condition and that when in use, they are properly secured.
+        \n<b>9. Emergency Equipment</b>
+\n• Ensure that your emergency equipment is still in good working
+order. Emergency equipment includes the reflector triangle, a fire
+extinguisher, first aid kit, tools, spare tyre and survival gear
+        \n<b>10. Paperwork</b>
+\n• Ensure that you have all that you as the motorist have the
+appropriate licence that permits you to drive the car. Additionally, ensure
+that the vehicle is roadworthy and the correct registration and vehicle
+insurance
+\nInterior Inspection
+It is important to carry out the interior inspection to ensure that the vehicle is
+mechanically sound.
+The following are some of the parts that should be inspected
+\n1. Brakes
+\n2. Steering
+\n3. Indicators
+\n4. Vehicle transmission
+\n5. Oil level
+\n6. Coolant Check
+\n7. Battery
+\n8. Leaks
+        \n<b>1. Brakes</b>
+\n Ensure that the brakes are properly adjusted. To do this you may turn on the
+engine and do a few manoeuvres.
+        \n<b>2. Steering</b>
+\n The steering wheel should have a full range of motion i.e. it should be able to
+turn at 360 degrees. It should also effectively turn the front wheels.
+        \n<b>3. Indicators</b>
+\n Inspect all indicators to make sure that they are operational
+        \n<b>4. Gears</b>
+\n Ensure that the vehicle is capable of shifting into any gear
+    </string>
+    <string name="chapter7a">
+\nObservation is essential for safe driving. Observation refers to using your sight and
+hearing ability to get a clear perception of what is around. The driver’s ability to observe
+effectively is influenced by driver visibility.
+        \n<b>Driver visibility </b>is the maximum distance at which a driver can clearly identify
+objects around the car. Driver visibility varies for each driver depending on the tpye of
+vehicle, the traffic conditions and the individual’s own ability to see. To enhance driver
+visibilty it is important to make use of all the mirrors in your vehicle.
+\n• Check the mirrors by looking into the centre interior mirror, followed by
+the door mirror of the direction you are going.
+\n• Take one of what is reflected through the mirrors. Look for
+potential hazards such as vehicles driving closely behind you, vehicles
+approaching quickly from behind, motorcyclists and cyclists. Potential
+hazards may require further mirrors checks to eliminate the possibility
+of turning into actual hazards.
+\n• If approaching a situation where you need to stop or slow down,
+special actions may need to be taken. A vehicle driving too closely
+behind may require that you gently slow your car down earlier than
+usual to provide the driver behind with more reaction time to slow down
+\n• A vehicle approaching quickly behind may require that you slow down
+slightly later than usual (if possible) to allow the driver with a greater
+stopping distance.
+\n• Motorcyclists and cyclists are often in the habit of pushing forward
+past slowing vehicles to reach the front of a queue. Such potential
+hazards require that you use all the mirrors to establish their location
+and checking the blind spot is extremely important.</string>
+    <string name="chapter7b">
+        \n<b>The blind spot</b> is the area around the vehicle that the driver cannot directly observe
+while driving. The blind spot varies according to the type of vehicle and the driver
+\nMirrors are placed at different parts of the vehicle to assist the driver to get a clearer view
+of what is around the vehicle. The mirrors eliminate or alleviate the vehicle blind spot.
+\n• The blind spot should be checked before changing direction when:
+\n• There are motorcyclists or cyclists close by
+\n• You wish to change lanes
+\n• You wish to change lanes or direction when there is a potential hazard
+        \n<b>Types of mirrors</b>
+        \n<b>1. Rear View Mirror (Interior mirror)</b>
+\n• These are made with flat glass and do not give a distorted image
+of what is reflected. This makes it possible to judge the speed and
+distance of following traffic
+\n• You should only adjust this mirror when the vehicle is stationary
+\n• You should be able to view the whole of the rear window in the interior
+mirror
+        \n<b>2. Exterior Mirror</b>
+\n• These are convex mirrors, which are made using curved glass
+\n• Convex mirrors give a wider field of vision but this make judging the
+speed and position of following traffic more difficult
+\n• Vehicles appear smaller and further away than they actually are. You
+should adjust the exterior mirrors so that you can get the best rear view
+with minimal head movements
+\n• The horizon should appear in the middle of the mirror
+        \n•<b> Nearside Mirror</b>. This is the one that’s closest to the kerb
+        \n• <b>Offside Mirror</b>. This is the one closest to the inner lane marker
+
+
+    </string>
+    <string name="chapter8a">
+\nThis section allows you to start putting your theoretical knowledge into practice. You will
+be asked to demonstrate certain aspects of your theoretical training at the manoeuvre
+yard. The manoeuvre yard also provides you with an opportunity to practice and gain
+confidence in driving before taking the car out to the road .
+\nThese are some of the essential skills you must have before you are allowed to proceed
+to the road.
+        \n•<b>Driving Preparation</b>
+\n As a learner you should be able to make the appropriate preparations before driving the
+car. These preparations include the vehicle self-inspection as explained in Unit 7 above.
+Once you are certain that your vehicle safe to drive.
+\n• Adjust your driving seat to ensure that it is suitable for you.
+\n• Adjust the mirrors if it is necessary
+\n• Check the doors to ensure that they shut properly
+\n• Fasten your seat belt and ensure that all passengers also do so
+\n• Sit in the correct driving position – your back should get adequate
+support and your feet should reach the pedals
+\n• Hold the steering wheel correctly – It should be held with both hands
+in the positions illustrated below. Your hands should hold the steering
+wheel naturally, not too stretched or too bent
+\n• From this position you should get a clear view of what is ahead of and
+around you. You should also comfortably operate the brakes and the
+accelerator
+\n• Check all the instruments at the dashboard and ensure that they are all
+in good working order
+\n• Once this is done you can turn on the ignition and start practicing your
+driving skills
+        \n•<b>Car Movement and Control</b>
+\n1. To start the vehicle
+\n• Fully depress the clutch pedal and wait for three seconds
+\n• Start the engine as follows
+\no Put the hand brake ON
+\no Turn the ignition switch ON
+\no Turn the motor switch ON
+\no Start motor control by turning the ignition key and releasing it
+\nwhen the engine starts
+\no Step lightly on the accelerator to warm the engine
+\n• Check rear view mirrors
+\n• Give the proper signal before moving
+\n• Select the appropriate gear
+\n• Increase the engine speed using the accelerator
+\n• Move the handbrake to the OFF position
+\n• Let the clutch pedal rise until the engine speed decreases slightly under
+the load. Keep your feet in this position – on the clutch and accelerator
+pedals
+        \n•<b>2. To stop the vehicle</b>
+\n• Check the rear view mirrors to ensure that it is safe to stop
+\n• Signal properly to alert other road users
+\n• Remove the foot from the accelerator
+\n• Apply pressure on the foot brake and maintain it as necessary
+\n• Depress the clutch pedal as the car comes to rest and maintain the
+pressure
+\n• Set the hand break at the ON position
+\n• Put the gear lever in the 1ST position
+\n• Switch off the engine
+\n• Remove your foot from the break clutch pedal and then from the brake
+pedal
+        \n•<b>3. Using the gears</b>
+\nMost vehicles have five forward gears and one reverse gear. You should know the
+appropriate gear speed to be used when driving. You should learn to proficiently change
+from 1st to 5th gear without looking.
+\n The neutral position is where no gear is selected. Before starting the engine, the gear
+should be in neutral position.
+        \n\t•<b>1st Gear</b> – This is used when moving off from a stationary position. This gear is for
+travelling between 0 and 30 km/h
+        \n\t•<b>2nd Gear</b> – This allows you to move faster and is also applied in slow moving traffic
+because it is more economical. It is also the ideal gear for moving downhill from a
+stationary position.
+        \n\t•<b>3rd Gear </b>- This is the appropriate gear for travelling between 35 and 70 km/h
+        \n\t•<b>4th Gea</b> – This is the appropriate gear for travelling between 60 and 110 km/h.
+        The 4th gear provides more power and speed to the engine and can be used when
+        overtaking another vehicle.
+        \n\t•<b>5th Gear</b> - This is the appropriate gear for travelling between 80 and 110 km/h.
+This gear is used on highways where the speed limits are higher.
+  \n<b>4. Steering the vehicle</b>
+    </string>
+    <string name="chapter8b">
+\n• Hold the steering wheel correctly
+\n• To steer in a straight course position your hands in the 10-minutes-to-2
+position and aim the car in the general desired direction. Lightly correct
+the vehicle’s tendency to turn from the neutral position
+\n• To avoid injury from the airbag position your hands in the 9 and 3
+position
+\n• To change direction, pull the steering down in the direction you wish
+to turn. Bring it down to meet your other hand then push the steering
+wheel up until the turn has been executed
+        \n\<b>5. Parking at the kerb</b>
+You should always find a parking space that is legal and convenient to park. To park you
+vehicle take the follow steps:
+\n• Look into your rear view mirror so that you can know what is around
+you. If there are no vehicles behind you, you may slow down to get a
+clearer picture of what is around you.
+\n• Locate a safe and convenient parking position
+\n• Use your indicator signals to inform other road users of your intention
+to slow down and park
+\n• Slow down the vehicle by covering the brake and the clutch
+\n• Gradually move a to a suitable distance from the kerb
+\n• Apply the brake gently and 5 metres from your intended stop, press the
+clutch as to avoid stalling the car
+\n• Stop. Apply the handbrake and select neutral to cancel the indicator
+\n• Remove feet from the pedals
+        <b>Different types of parking.</b>
+    </string>
+    <string name="chapter8c">
+        \n\<b>6. Turning</b>
+        \n<b>J-turns</b>
+\nA J-turn is a driving manoeuvre in which a reversing vehicle turns 180 degrees
+and continues, facing forward, without changing direction of travel.
+Only a confident driver who has had a sufficient experience driving on different
+road surfaces should do this type of turn.
+    </string>
+    <string name="chapter8d">
+        \n\<b>U-turn</b>
+\nA U-turn is a driving manoeuvre in which a forward driving vehicle turns 180
+degrees and continues, facing forward, but moving in the opposite direction.
+Before you make a U-turn, check to make sure that there is no sign that says you
+should not. To make a U-turn safely, you must be able to see well both sides.
+    </string>
+    <string name="chapter8e">
+        \n\<b>7. Driving on Bends</b>
+\nWhen approaching a bend, it is important to note how sharp the bend is. Look
+out for road signs and markings which would indicate the type of bend you are
+going to encounter.
+\nAdjust your speed accordingly. If you are too fast you are more likely to skid or
+lose control of your car. Surrounding trees, hedges, buildings and streetlights can
+give you a good indication of how sharp the bend is if there are no road signs.
+As you approach the bend, apply the MSM technique to communicate with other
+road users
+\n• Slow down and select a lower gear
+\n• Do not brake as you steer round the bend
+\n• When leaving a bend, check your mirrors and gently accelerate to the
+speed appropriate for the traffic conditions
+        \n\<b>8. Driving on Hills</b>
+\nThis requires you to anticipate what is ahead of you. While going downhill you
+have a clearer view but going uphill you see less of what is ahead of you.
+When driving downhill, switch to a lower gear so that the engine controls some
+of the braking. This protects your brakes from excessive wear and tear. It takes
+longer for the vehicle to stop therefore you need a greater stopping distance.
+When driving uphill, switch to a lower gear so as to maintain your speed.
+        \n\<b>9. Reversing</b>
+\nUse your mirrors to assist you in seeing what is behind you. When reversing, you
+may tilt your head so that you can see beyond the head restraint.
+Always reverse at slow speed so as to retain control of your steering. To steer the
+car in reverse, turn the wheel in the direction you want the rear of the car to go.
+Turning the wheel to the right steers the back of the car to the right. Turning the
+wheel to the left steers to the left.
+    </string>
+    <string name="chapter9a">
+\nRoad users communicate with each other using a prescribed set of signs and
+signals to avoid confusion and misunderstanding on the road. This is done using
+hand gestures, signal lights and responding to instructions from traffic marshalls
+and police.
+        \n<b>MSM technique (Mirror, Signal and Manoeuvre)</b>
+\nThe MSM technique is a simple procedure that helps drivers communicate on the
+road. It is a routine that is convenient in many different situations.
+The MSM technique should be used:
+\n• Before moving off
+\n• Bust before signaling
+\n• Before any change of direction including turning left or right,
+overtaking other vehicles or cyclists and changing lanes
+\n• Before any changes in speed. This also includes an increase of speed
+as a vehicle may be trying to overtake you as you gain speed. More
+importantly however is when slowing or coming to a stop either in traffic
+or parking up
+        \n<b>Mirror</b>
+\n• Check the mirrors by looking into the center interior mirror, followed by
+the door mirror of the direction you are going.
+\n• Note of what is in the mirrors. Look for potential hazards such as
+vehicles driving closely behind you, vehicles approaching quickly
+from behind, motorcyclists and cyclists. Potential hazards may require
+further mirrors checks to eliminate the possibility of turning into actual
+hazards.
+\n• If approaching a situation where you need to stop or slow down,
+special actions may need to be taken. A vehicle driving too closely
+behind, may require that you gently slow your car down earlier than
+usual to provide the driver behind with more reaction time to slow
+down. A vehicle approaching quickly behind may require that you slow
+down slightly later than usual (if possible) to allow the driver with a
+greater stopping distance.
+\n• Motorcyclists and cyclists can often be in the habit of pushing forward
+past slowing vehicles to reach the front of a queue. Such potential
+hazards require that you use all the mirrors to establish their location
+and checking the blind spot is extremely important. The blind spot is
+often required after the mirror checks.
+
+\nThe blind spot should be checked before changing direction when:
+\n1. There are motorcyclists or cyclists close by
+\n2. You are overtaking on a dual carriageway or motorway
+\n3. You wish to change lanes
+\n4. You wish to change lanes or direction when any potential hazard
+may be obscured by the blind spot
+\n<b>Signal</b>
+\n• Signals should be applied to the direction you intend to take.
+\n• Signals depend on what you see in your mirrors.
+\n• If you notice a potential or actual hazard located in your mirrors may
+have to alter your intended route and not apply a signal. It’s therefore
+important that a signal is applied immediately after the mirrors. If there
+is a delay, the mirror sequence must be repeated.
+\n• Signaling must be applied in good time. Signaling too late may
+not provide vehicles behind with enough time to react if you are
+intending on slowing or stopping the car. Signaling too early can give the
+impression you are taking a turn sooner than the actual turn you
+intend, or that you are parking up, leading to confusion. If parking up,
+ensure you do not signal before a junction.
+        \n<b>Manoeuvre</b>
+\n1. The manoeuvre part of MSM applies at different situations such as
+roundabouts, junctions, changing lanes or parking
+\n2. You should always be prepared to alter the MSM routine depending on
+circumstances. If driving in an area with potential hazards, pedestrians
+or cyclists for example, you may need to check the mirrors and blind
+spot once again before committing to the manoeuvre.
+\n3. Be prepared to alter your speed or destination even at the very last
+moment. Cyclists, pedestrians and other vehicles can be unpredictable
+and a good driver should try to predict a potential hazard.
+        \n<b>Signals Given by Road Users</b>
+\n(a) Hand signals given by drivers
+    </string>
+    <string name="chapter9b">
+\nA: RED means STOP
+\nB: RED and AMBER also mean STOP
+They alert the driver to get ready
+\nC: GREEN means you may go on if the
+road is clear
+\nD: AMBER means STOP at the line
+    </string>
+    <string name="chapter9c">
+\nA GREEN arrow may be provided in addition to the full
+green signal if movement in a certain direction is
+allowed before or after the full green light phase.
+If the way is clear you may go, but only in the direction
+shown
+        \n<b>Traffic Signal Blackout</b>
+\n If traffic signal lights are not working because of an electrical power failure:
+\n• Stop at the intersection
+\n• Proceed when you know other turning and approaching vehicles,
+bicycles, or pedestrians have stopped
+    </string>
+
+    <string name="chapter10a">
+\nA major cause of road accidents is reckless driving and over speeding. Before deciding
+what speed to drive at take into consideration the laws determining the speed limits of the
+particular road you are using and the road conditions.
+The higher the speed of a vehicle, the shorter the time a driver has to stop to avoid a crash.
+Overall, accidents are more severe when the driving speed is high. The choice and ability
+drive at a high speed is influenced by
+\n• The driver’s choice to make responsible or irresponsible decision on
+the road
+\n• The road conditions
+\n• Traffic and the surrounding environment
+\nIt is important to remember that pedestrians face great risk when vehicles are driven at
+high speeds.
+        \n<b>How poor speed management affects driving</b>
+\n• At high speeds it is more difficult for the driver to stay in the especially
+when negotiating corners
+\n• The driver will have less time to respond to poor or changing road
+conditions and any changes in the weather
+\n• The driver may not notice any new hazard warning signs or other traffic
+signs
+\n• The fuel consumption may increase due to poor efficiency
+Drive at a reasonable speed and within the designated speed limits.
+        \n<b>The 4 Second Rule</b>
+\n• The 4-second rule is a guideline that enables you to estimate the
+minimum distance you should travel behind the vehicle immediately in
+front in adverse weather conditions such as rain or fog.
+\n• The following distance is the distance between the driver and the
+vehicle ahead.
+\n• To apply the 4-second rule, when the vehicle in front of you passes a
+landmark such as a sign or a bridge, count one thousand and one, one
+thousand and two, one thousand and three, one thousand and four.
+\n• If you pass the landmark before you finish counting, then you are too
+close and you should increase your distance from the vehicle in front
+of you
+    </string>
+    <string name="chapter10b">
+        \n<b>Braking Distance</b>
+\n• Braking distance is the distance the vehicle travels between hitting the
+brakes and coming to a stop
+\n• When on poor roads with wet or icy conditions, the braking distance
+increases
+\n• As the vehicle’s speed increases, so does the braking distance
+\n• If the vehicle is in poor condition due to worn out tyres, poor brakes or
+overloaded, the braking distance will increase.
+        \n<b>Thinking distance</b>
+\n• Is the distance the vehicle travels after the driver decides to hit the
+brakes and when the driver actually brakes
+\n• Thinking distance is affected by speed, driver fatigue and distractions
+        \n<b>Stopping Distance</b>
+\n• Is both the thinking distance and the braking distance added together.
+    </string>
+    <string name="chapter10c">
+        \n<b>Braking Systems and Techniques</b>
+\nThere are different types of brakes. These are: disc brakes, drum brakes, and handbrakes.
+\n• Brakes are located on all four wheels of the vehicle
+\n• Some vehicles have disc brakes on all four wheels while others have
+drum brakes on the back wheels
+\n• Braking pushes the weight of the vehicle forward, therefore the front
+brakes of the car play a more crucial role than the rear brakes.
+\n• The handbrake applies the two rear brakes
+        \n<b>Freewheeling</b>
+\nFreewheeling is moving the vehicle without using power. It is also known as coasting.
+In driving this is a technique achieved by depressing the clutch so as not to use the engine
+to move.
+\nDrivers most frequently freewheel in the following situations
+\n• When turning at junctions
+\n• Before making a stop
+\n• When changing gears
+\n• When keeping the gear in neutral to save petrol
+        \n<b>Risks of Freewheeling</b>
+\n• Freewheeling is reduces one’s control of the vehicle because the engine
+is not engaged. When the engine is engaged, the driver can brake with
+more ease.
+\n• Freewheeling is also risky because there are times when the driver
+needs to accelerate to prevent an accident but freewheeling prevents
+the use of the accelerator.
+\n• Freewheeling increases pressure on the brakes because the engine is
+not engaged in the process of slowing down the vehicle to a stop. This
+results in increase wear and tear of the brakes.
+\n• Fuel consumption in freewheeling is the same as fuel consumption for
+an idle engine. A small amount of fuel is needed to keep the engine
+active. As such freewheeling does not save petrol.
+\nWhen the driver needs to stop, progressive braking is safer than freewheeling because it
+reduces wear on the braking system and on the tyres and ensures that the driver maintains
+control of the vehicle.
+    </string>
+    <string name="chapter11a">
+\nTo drive safely, it is important to manage the space around your vehicle. You do this by
+controlling your speed, the position of your vehicle in the lane and communicating on the
+road.
+\nIn order to manage your space effectively you should be aware of the different road
+conditions when driving. These can be broadly divided into three categories
+\n1. Open Condition – This is occurs in large areas where the driver can
+gets a clear broad view of the road and surroundings and there are no
+restrictions or obstacles blocking the view. In these conditions, it is easy
+to adjust speed and change lanes.
+\n2. Closed Conditions – In this case, there is limited space and the
+driver’s view is also restricted due to various obstructions such as trees,
+buildings and other vehicles blocking the view.
+\n3. Changing Conditions - This occurs where there are changes in the
+speed limit, road surface conditions, the width of the lane, visibility
+influenced by the weather or the time of the day and the traffic flow.
+\nAll these are conditions that may be unpredictable or may need specific
+actions by the driver.
+\nIn all the above-mentioned conditions, the driver has to maintain an appropriate space
+around the vehicle for safe driving. This is the space envelope.
+        \n<b>To manage space</b>
+\n• Drive at the same speed as the vehicles around you in traffic
+\n• Maintain a safe following distance between your vehicle and the
+vehicle ahead of you (Discussed in UNIT 10 on speed management)
+        \n<b>Space Recovery</b>
+When you realize that there is insufficient space in front of the vehicle.
+\n• Signal so that the vehicles around you know that you intend to slow
+down
+\n• Turn slowly to give yourself and other drivers more space to avoid
+problems
+\n• Be aware of the size and weight of oncoming vehicles, give then room
+to pass but do not reverse as this will affect the vehicles behind you
+\n• Ensure that you have sufficient space to get across or join a lane
+    </string>
+    <string name="chapter12a">
+\nWhen driving along the road, there driver may need to make sudden and
+unexpected manoeuvres so as to avoid accidents or any imminent danger.
+Emergency manoeuvres involves quick and efficient moves.
+        \n<b>Safely performing evasive turns on the road</b>
+\nEvasive manoeuvre driving is important in getting out of situations of danger.
+Some of the skills that you should learn include making J-turns and U-turns. This is
+addressed in Unit 8.
+        \n<b>Brake failure</b>
+\n• If your brake fails, try pumping the brake pedal to temporarily restore
+hydraulic brake pressure. If this does not work, apply the parking brake
+(hand brake) gently but firmly while holding the release button.
+\n• Total brake failure is rare on modern vehicles but if your brakes fail
+and you manage to stop, do not drive again. Call for help from your
+mechanic
+        \n<b>Blowouts</b>
+In order to drive through a tyre blowout:
+\n• Keep a firm grip on the steering wheel.
+\n• Do not slam on the brakes.
+\n• Let your car slow down gradually.
+\n• Pull to the side of the road once you have slowed to a safe speed.
+\n• Activate your hazard lights
+        \n<b>If your wheel goes off the pavement</b>
+\n• Hold the steering firmly
+\n• Take your foot off the accelerator pedal to slow down, avoid heavy
+braking.
+\n• When the vehicle is under control, steer towards the pavement.
+        \n<b>If your headlights go off</b>
+\n• Check the switch immediately
+\n• If the lights remain off, keep to the left and bring your vehicle to a safe
+stop off the road.
+\n• It is dangerous and illegal to drive at night without lights
+        \n<b>Defensive Driving</b>
+\nDefensive driving is safe driving or cautious driving in cases where the driver
+needs to be more vigilant particularly in an environment that could cause danger.
+\nIt goes beyond mastering the rules of the road and basic mechanical skills and is
+taught to experienced drivers.
+        \n<b> Importance of defensive driving</b>
+\n• It allows you to be prepared to avoid accidents
+\n• It allows you to provide more protection to yourself and/or passengers
+\n• It is enables you to save lives in situations of danger
+\n• It enables you to save money by limiting wear and tear to your
+\n• motor vehicle and any unexpected damage
+\n• It prepares you to act accordingly in adverse riding conditions
+        \n<b>Defensive driving is important when in the following condition</b>
+\n• Adverse weather conditions such as rain, fog or windy. In these
+cases, the road surface may change and so you need to apply different
+techniques to avoid danger
+\n• Different road conditions that may be difficult to manoeuvre such rough
+terrain, wet surface or sloping surfaces.
+       \n<b>Defensive driving techniques</b>
+\n• Improving observation, anticipation and awareness consistent with the
+riding speed
+\n• Applying sound judgement of speed and distance
+\n• Don’t drive when you are tired, rest before any journey
+    </string>
+    <string name="chapter13a">
+\nA skid happens when the vehicle’s wheel slides out of control on a slippery
+surface. Skids can involve the front, rear or all four wheels. Even careful drivers
+experience skids. You lose traction and your wheels spin or lock, usually when
+braking, turning or accelerating.
+        \n<b>Causes of Skids:</b>
+\n• Driving faster than the road or traffic conditions allow
+\n• Sudden, hard braking.
+\n• Turning too fast or accelerating too quickly.
+        \n<b>Types of Skidding</b>
+        \n<b>The Front Wheel Skid</b>
+\nThis happens when the vehicle goes off the intended course. It is caused by excess speed
+on entry at a corner or a bend. It also occurs during sudden braking when negotiating
+a hazard.
+        \n<b>The Rear Wheel Skid</b>
+\nThis occurs when the rear of the vehicle swings out of the line as if the vehicle is trying to
+overtake at the front. It is often caused excessive speed leading to sudden braking in a
+hazard situation.
+        \n<b>Aquaplaning</b>
+\nDriving too fast or at an excessive or inappropriate speed on a wet road
+causes aquaplaning. When the tyre tread cannot channel away enough
+water, the tyre(s) lose contact with the road and the vehicle floats on a wedge
+of water. Aquaplaning can be avoided by reducing speed in wet conditions.
+Having the correct tyre pressure and tyre tread depth will maximise
+your tyres’ ability to maintain their road grip. If it happens, ease off the
+accelerator and brakes until your speed drops sufficiently for the car tyres to
+make contact with the road again
+        \n<b>Skid recovery</b>
+\n• Take your feet off the accelerator pedals
+\n• Release the brake pedal and reapply the brakes gently
+\n• Quickly turn the steering wheel in the direction you want to go
+\n• As your vehicle turns back in the correct direction, you may then need to steer
+in the opposite direction so as to stay on your desired path
+\n• Continue to look at your path of travel down the road
+    </string>
+    <string name="chapter14a">
+\nThe first step in dealing with adverse driving conditions is to be prepared by training for
+these conditions and preparing the vehicle for these conditions. Ensure that the vehicle has
+good tyre tread, firm brakes and streak-free wipers.
+Situations that are considered adverse driving conditions are:
+        \n<b>Night Driving</b>
+\nIn this case, the driver’s vision and visibility is greatly reduced by the absence of natural
+light.
+\n• Slow down when driving at night, especially on unlit roads.
+\n• Reflective roads can mislead you to believe that you can see further
+than you really can.
+\n• Do not over drive your headlights, that is, do not go so ast that your
+stopping distance is farther than you can see with your headlights.
+\n• Give yourself enough room to make a safe stop.
+\n• When meeting oncoming vehicles with bright headlights at night, look
+up and beyond and slightly to the left of the oncoming lights.
+\n• Cut down bright lights at night by following the rule of the road for
+vehicle lights.
+\n• Use your low beam headlights within 150 metres of an oncoming vehicle
+or when following a vehicle within 60 metres.
+\n• In rural areas, switch to low beams when you come to a curve or hilltop
+so you can see oncoming headlights and wont blind oncoming drivers.
+If you can’t see any headlights, switch to high beams.
+        \n<b>Extreme driving conditions</b>
+\n• This exasperated by the combination of unfavourable weather or poor
+road conditions.
+\n• Fog
+\n• Windy condition
+\n• Heavy rain
+\n• Hot weather
+\n• Dusty
+        \n<b>Fog</b>
+\n• Slow down gradually and drive at a speed which suits the condition.
+\n• Make sure the full lighting system of your vehicle is turned on: use your
+low beam headlights as high beams reflect off the moisture droplets in
+the fog making it harder to see. Otherwise, use fog lights if your car
+has them.
+\n• Always be patient – avoid overtaking, changing lanes and crossing
+traffic.
+
+\n<b>N/B: If visibility is decreasing rapidly, move off the road and into safe parking
+area and wait for fog to lift</b>
+        \n<b>Rain</b>
+\n• Rain makes the road surface slippery and reduces visibility.
+\n• Ensure your windshield wiper blades are in good condition (no streaking
+while cleaning).
+\n• Try to drive in clear sections of the road, look ahead and plan your
+movements.
+\n• Smooth steering, braking and accelerating will reduces your chances
+of skidding.
+\n• Leave more space between you and the vehicle ahead of you.
+<b>Stay out of puddles</b>– a puddle can hide a large pothole that can damage
+your vehicle or its suspension or flatten a tyre. The spray of water could splash
+nearby pedestrians or drown your engine, causing it to stall. Water can also
+make your brakes less effective.
+\nUnder these conditions the driver has to deal with reduced visibility and
+traction, steering, braking and skid control. It is best to practice how to deal with
+this conditions in a safe, secluded area. The driver who knows what to do in an
+emergency is more likely to stay in control.
+        \n<b>Driving In Adverse Conditions</b>
+\n<b>1. Be Cautious</b>
+\nGet in the right frame of mind before you start driving. Travel with another
+person so that the responsibility of driving is shared.
+\n<b>2. In the driver’s seat</b>
+\nAdjust your seat correctly to enable you to perform manoeuvres properly. This
+also reduced the risk of injury to fingers, elbows and the chest. Fasten your
+safety belt.
+\n<b>3. Dress appropriately</b>
+\nWear clothes that are comfortable and also provide freedom of movement.
+Heavy garments can restrict movement behind the wheel. Stop in a safe spot
+before removing a coat or gloves.
+\n<b>Poor visibility</b>
+Keep your windshield and windows clean. Clean the inside of your windows at
+least once a week. Use your defroster to keep front and rear windshields clear.
+
+\nOn a cold day, move the heat control to “hot” and let the engine warm up before
+you turn on the defrosters and blowers. This will prevent moisture from collecting
+on the inside of the glass.
+\nWhen the glass gets foggy, open a window slightly and turn the defroster fan to
+a higher speed. Use your air conditioner to reduce humidity.
+Mud and dust on your headights can reduce the illumination by 90 percent. Stop
+periodically during long trips and clean your headlights. If your vehicle is not
+equipped with daytime running lights, drive with your low-beam headlights on
+at all times - especially on dark or overcast days. Use low beams and fog lights
+in fog.
+\n<b>Reduced Traction</b>
+\nWet roads mean poor traction. Conditions are most dangerous during the first
+10 minutes of a heavy downpour as oil and debris first rise up, then wash away.
+Knowing how to handle poor traction reduces the potential for hydroplaning,
+skidding or getting stuck in the mud.
+        \n<b>Getting out of a tough spot</b>
+You need steady pulling and moderate power when traction is poor. The best
+remedy when wheels are stuck in the mud or a soft shoulder is to apply power
+slowly.
+\n• Keep the wheels pointed straight ahead so the vehicle can move in a
+straight line. If you can’t go forward, try backing out, steering in the
+vehicle’s tracks
+\n• With a manual transmission, start in second gear to prevent wheel spin.
+Accelerate carefully, giving enough fuel to prevent the engine from
+stalling and ease along gradually until traction improves
+\n• Rock your way out by using second gear in a manual transmission
+and low gear in automatic transmissions. Check your owner’s manual
+for recommended procedures. Move forward until the vehicle stops,
+then shift into reverse and move backwards until momentum stops.
+Repeat this process, moving ahead a little more each time. Use minimum
+power to keep the wheels from spinning and digging in deeper
+\n• If rocking doesn’t work and wheels simply spin, find a way to create
+traction. Traction mats, gravel or kitty litter work best, but you can also
+use salt, burlap, branches or even the vehicle’s floor mats. Shovel a
+space in front of the drive wheels and spread your materials there.
+Apply power slowly, using second or low gear
+        \n<b>Steering clear of collisions</b>
+\nYou may need to take evasive action in poor weather to avoid a collision.
+Steering around an obstacle is preferred to braking at speeds above 30 km/h
+because less distance is required to steer around an object than to brake to a
+stop. In wet weather, sudden braking often leads to skids.
+\n<b>There are two acceptable methods of emergency steering:</b>
+\n1. The push-pull method of steering is performed by shuffling your hands,
+so that neither hand crosses over the imaginary line between 12 and 6
+o’clock. Since the arms never cross, you are able to provide continuous
+adjustments in either direction.
+\n2. The fixed-hand steering method allows rapid 180-degree steering to
+either direction, but it has one shortcoming. This method is confining
+in that your arms may get locked together as you attempt to steer past
+180 degrees, leaving you in an awkward position to make further fine
+adjustments.
+\n<b>Braking</b>
+\nStopping on a slippery surface requires more distance, so increase your
+following distance. Focus your attention as far ahead as possible - at least 20 to
+30 seconds.
+\nAnti-lock braking systems (ABS) are designed to prevent wheels from locking
+and to retain steering control during panic braking. Sensors located at wheels
+detect lock-up. The anti-lock system relieves pressure as needed, allowing all
+four wheels to continue to turn while maintaining steering control.
+You should use the “plant and steer” method with antilock brake systems. Do not
+remove your foot from the brake or pump the pedal. If you apply pressure and
+the wheels lock momentarily, you might feel the brake pedal pulse back against
+your foot. This is normal. Just hold the brake pedal down and steer. Pumping the
+pedal actually works against the system.
+The best way to stop on a slippery surface if your vehicle doesn’t have antilock
+brakes is to use threshold braking. Keep the heel of your foot on the floor and
+use the ball of your foot to apply firm, steady pressure on the brake pedal to the
+“threshold” of locking your brakes.
+\nIf your heel leaves the floor, the wheels could lock because control of
+the brake pedal is transferred from your ankle muscles to your thigh
+muscles, which are not capable of the finer control required in this situation.
+Under the stress of trying to stop quickly, drivers almost inevitably use too much
+pressure, resulting in locked wheels (on non-ABS-equipped vehicles). If this
+happens, release pressure on the brake pedal by one or two degrees, then
+immediately reapply slight pressure. Continue this technique as needed until the
+vehicle comes to a stop.
+
+        \n<b>Dealing with a crisis</b>
+\nWhen visibility is so limited that you can’t see the edges of the road or other
+vehicles at a safe distance, it’s time to get off the road and wait for the rain to
+stop. It’s best to stop at a rest area or exit the freeway and go to a protected
+area. If the roadside is your only option, pull off the road as far as you can,
+preferably past the end of a guardrail. Vehicles parked at the side of the road are
+frequently struck by other drivers. Respect the limitations of reduced visibility and
+turn headlights off and hazard lights on to alert other drivers.
+    </string>
+    <string name="chapter15a">
+        \n<b>Preventive Maintenance (PM)</b>
+\nRefers to the different types of work done to ensure that the vehicle is in good
+working condition and that any problems can be detected and fixed before they
+get out of hand. Preventive maintenance may include the following.
+\n• Vehicle inspection
+\n• Lubrication
+\n• Adjustment
+\n• Cleaning
+\n• Testing of certain parts
+\n• Repair and replacing worn out parts
+\n<b>Driver’s obligation:</b> As the owner and/or driver of a vehicle it is important to
+carry out regular preventive maintenance as this increase the availability and
+safety of the vehicle
+\n• PM maintenance should be scheduled on a regular basis based on the
+specific part of the vehicle being maintained.
+\n• The driver of the vehicle should participate in this maintenance work as
+ultimately he or she is the one who makes the decision as to whether
+the vehicle is safe to drive, clean enough or if the vehicle needs further
+repair or maintenance work done.
+\n• To determine how regular PM should be undertaken the driver should
+also look at the vehicle manufacturer’s guidelines.
+\n• It is important for every driver to know some of the basic steps to take
+in the event that the vehicle malfunctions.
+        \n<b>Below is a table indicating common issues and how to resolve them. 1</b>
+    </string>
+    <string name="chapter16a">
+\nConditions of carriage refer to customers’ rights and the restrictions on
+these rights. It also refers to the driver’s obligation to customers and their
+obligations when handling cargo. The Traffic Act provides guidelines for conditions of
+carriage for different categories of goods and passengers.
+\n<b>A commercial vehicle</b> is a motor vehicle constructed or adapted for the carriage
+of goods or burdens of any description in connection with any trade, business or
+agriculture. Therefore a light vehicle can be licenced as a commercial vehicle.
+\n<b>Light vehicles</b> licenced to be Public Service Vehicles (PSV) should do the
+following
+\n• Provide a statement of liability
+\n• State what fares or ticketing prices will be charged
+\n• Indicate if there are any exceptions with fare prices
+\n• Ensure that you abide by a code of conduct that customers can easily
+rely on as a guideline
+\n• Ensure that you address restricted items. Provide outlines for customers
+to know what items are restricted and which are
+\n• Lost property
+\n• Contact details of the owner or company that runs the service
+    </string>
+    <string name="chapter17a">
+        \n<b>Hazardous Material</b> is any material prescribed as such by any written law and
+includes explosives, petroleum products and any material involving high risk.
+Hazardous materials are solids, liquids, or gases that are harmful to people,
+other living organisms, property, or the environment. They are often subject to
+chemical regulations.
+    </string>
+    <string name="chapter17b">
+        \n<b>Characteristics of Hazardous Goods</b>
+\nHazardous goods are known for the following characteristics
+\n• Flammable; something that can burn easily
+\n• Corrosive, something that rusts or decomposes
+\n• Reactive; something that can explode
+\n• Toxic; something that is poisonous
+Before handling hazardous material, the driver is required to get legal approval
+that requires special equipment and different alterations to the vehicle to make
+it suitable for transporting any of these materials.
+\n<b>Hazmat Endorsement Framework</b> is an assessment process for any driver
+seeking to obtain, renew and transfer a hazardous materials endorsement on a
+commercial driver’s license.
+        \n<b>Classification of Hazardous Materials</b>
+\nThere are 9 classes of hazardous materials. These are
+\n<b>Explosives</b>
+\n• Gases
+\n• Flammable Liquids
+\n• Flammable Solids
+\n• Oxidizing Substances
+\n• Toxic &amp; Infectious Substances
+\n• Radioactive Material
+\n• Corrosives
+\n• Miscellaneous Dangerous Goods
+\nEach class of hazardous material has a prescribed procedure for loading and
+offloading that the driver should adhere to.
+\nIn Kenya, the Kenya Bureau of Standards (KBS), National Environmental
+Management Agency (NEMA) and NTSA coordinate licencing for transportation
+of hazardous goods.
+\nDo not handle hazardous material unless you have the appropriate
+licencing to do so.
+    </string>
+    <string name="chapter18">
+\nThe driver should always be prepared to handle any emergencies that may occur
+within or outside the car.
+Many of these situations can be avoided by ensuring that the passengers and
+driver take the prescribed safety precautions before embarking on the journey.
+This section will address the most frequent emergencies.
+        \n<b>Basic Responsibilities at a Scene of Crash</b>
+\nCrashes frequently occur on the carriageway due to error or negligence by
+different road users. If you are involved in an accident or if you witness an
+accident, you should stop and offer assistance where possible.
+\nThese are the steps that should be taken in the event of an accident.
+\n• Set up the reflector triangles behind and in front of the crash site.
+The reflector triangles should each be 50 metres behind and ahead
+the vehicle.
+\n• Call for emergency services – the police, ambulance and fire brigade
+- immediately, providing full details of the incident location and any
+casualties
+\n• Move uninjured people away from the vehicles to safety.
+\n• DO NOT move injured people from their vehicles unless they are in
+immediate danger from fire or explosion
+\n• Do not remove a motorcyclist’s helmet unless it is essential to do so
+\n• Be prepared to give First Aid
+\n• Stay at the scene until the police arrive.
+\n• If you are involved in any other medical emergency on the road, you
+should contact the emergency services in the same way.
+\n• In the event of spillage, keep onlookers away from the scene of the
+accident and wait for police to handle the situation
+        \n<b>First Aid</b>
+\nMany road crash victims suffer unnecessarily, or even die, at the scene of the
+crash due to inadequate care. Someone with First Aid training can often prevent
+a victim’s condition from worsening and may save their life. The aims of First Aid
+are to:
+\n1. Preserve life
+\n2. Prevent a casualty’s injury or illness from getting any worse
+\n3. Promote recovery
+\nYou can get First Aid training at places such as Red Cross and St. John’s
+Ambulance. But even if you do not have First Aid training there are simple things
+you can do to help the injured, and these are described below.
+        \n<b>1. Prevent further danger and make safe</b>
+\nFirst of all assess the danger to yourself, the victims and others. Make the
+situation safe before approaching. You do not want to become a casualty
+yourself. For instance, warn and control approaching vehicles to prevent a
+second collision. Ask other people to help you with this. If there is a danger of
+fire, make sure no one smokes or uses lighters or matches.
+        \n<b>2. Emergency treatment</b>
+T\nhe most important thing is to preserve life. Remember “Dr A.B.C.” This stands
+for:
+        \n<b>D = Danger:</b>
+\nIs there continuing danger to the injured? Try to make safe. Protect the casualty
+and keep curious onlookers away.
+        \n<b>R = Response:</b>
+\nIs there any response from the casualty? – Shake the casualty
+gently and talk to him. If there is no response check the airway (throat).
+        \n<b>A = Airway:</b>
+\nIs the airway (throat) clear? Lay the casualty on his back, tilt the head to one side,
+and open the mouth; check that the tongue is not blocking the throat, and use
+your fingers to scoop out anything (food, dirt, artificial teeth, etc.) in the mouth;
+then gently move the head so that the chin is up and the mouth open and check
+for breathing.
+        \n<b>B = Breathing:</b>
+\nIs the casualty breathing?
+\nCheck by putting your ear close to the casualty’s mouth for at least 10 seconds
+to hear and feel the breath. Look to see whether the chest is rising and falling. If
+there is no breath, then immediately give artificial respiration by pinching closed
+the nostrils, taking a deep breath, and breathing slowly into the casualty’s mouth
+until you have emptied all the air in your lungs into his. Do this again. Check
+again for breathing. If there is still no breath, check for circulation.
+        \n<b>C = Circulation:</b>
+\nIs there a pulse? Check the pulse by placing two fingers at the neck near
+the throat, and look at the casualty’s colour and pupils of the eyes. If there
+is no breath or circulation, call for emergency assistance immediately before
+continuing. Once help has been summoned, if you know the technique, then
+apply CPR (Cardio-Pulmonary Resuscitation) combining chest compressions with
+artificial respirations until expert help arrives, or the casualty starts breathing.
+If there is a pulse, but the casualty is still not breathing, continue with artificial
+respiration (a breath every five seconds). Do not give up - it may take
+some time for him to be able to breathe on his own. Once the casualty is
+breathing and talking again, lay him on his back and keep him warm.
+
+\nIf he is breathing but does not answer questions, put him in the recovery position.
+        \n<b>3. Get help</b>
+\nExpert help must be summoned as quickly as possible, normally by dialing 999.
+Try not to leave the casualty alone, so ask others to phone or get help and to
+report back that they have done so. Many people have mobile phones so there
+may be no need to leave the scene. It is important to give the emergency services
+clear information on:
+\n• What has happened
+\n• The location of the crash; street name, known landmarks or places
+\n• Site conditions and dangers
+\n• Number of people injured and severity of injuries.You should not end
+the call until you are told to do so – wait for the emergency service to
+confirm the details
+\n• If help is not quickly available you may have to transport the casualty
+to a medical facility. Ask the advice of the Police or local people about
+the best place to take the casualty. Small facilities like health posts and
+clinics may be able to stabilize the condition of the seriously injured so
+that they will survive a long trip to hospital. However some may not be
+open 24 hours
+        \n<b>4. Moving casualties</b>
+\n• Do not move any casualties unless absolutely necessary. Injured
+persons still in vehicles should not be removed unless there is
+immediate danger of fire, additional damage, or further collisions.
+Persons suffering obvious bone fractures or possible internal or spinal
+injuries should not be moved unless it is essential for their safety.
+\n• If a casualty is unconscious but is breathing and not obviously badly
+injured, put them in the recovery position to prevent breathing
+problems
+        \n<b>5. Bleeding and injury treatment</b>
+\n• A person can bleed to death in five minutes, so it is vital that you try
+and stop heavy loss of blood. Reassure him, and, if possible, lay him
+flat on the ground. Find out where the bleeding is coming from. Then
+check for anything in the wound and remove it if is easy to do so. Apply
+firm pressure over the wound, preferably using a sterile dressing from
+a First Aid kit or any other
+\n• Clean padding - otherwise use your hands. If the bleeding does not
+reduce, press harder. You may be able to tie the padding over the
+wound, but be careful that you do not cut off circulation - release the
+pressure briefly every ten minutes. If there are no broken bones, raise a
+bleeding limb as high as possible to reduce the blood flow.
+\n• If there are broken bones, fractures or dislocations it is important to
+stabilize the limb and avoid movement so you don’t make the injury
+worse. If there are burns, immediately cool the area with cold running
+water and then cover with a clean dressing.
+        \n<b>6. Treat victims for shock</b>
+\n• It is also very important to recognize, prevent, and treat the symptoms
+of shock, as these may cause even more serious deterioration than the
+original injury. The signs are: a cold, pale, damp skin; fast or weak
+pulse; rapid shallow breathing; feeling sick; yawning or sighing
+\n• The causes of shock are many, including: injury; drop in blood
+pressure; and reduction in the volume of any body fluid. As well as
+treating the cause, it is vital not to leave the person alone, and to make
+them more comfortable by:
+\ni. laying the person down
+\nii. loosening any tight clothing particularly round the chest and airways
+\niii. keeping the person warm by covering with a blanket
+\niv. talking to the person to keep them calm
+\nv. raising the legs slightly to keep blood flowing to the head.
+\n• An accident casualty should never be given anything to eat or drink. If
+they are thirsty, moisten their lips with water. Never give a casualty any
+medicines or apply anything but clean water and dressings to wounds
+        \n<b>7. Put the casualty in the recovery position</b>
+\n• This is a stable position with the casualty on their side, to prevent
+choking on their tongue or vomit if unconscious.
+\n• The head is slightly tilted back, the lower arm is out at a right angle,
+the hand of the upper arm is under the cheek, the lower leg stretched
+out, and the upper leg bent in a right angle as shown in the illustration
+below
+    </string>
+    <string name="chapter18b">
+       \n<b>Reporting the accident</b>
+\n• Report the accident as soon as possible to the police
+\n• If you are hired as a driver, also report the incident to your employer
+\n• Take a photo or sketch the accident scene if you can do so safely
+\n• Record the number plate of the vehicles involved in the accident
+    </string>
+    <string name="chapter19a">
+\nWork Planning ensures that the driver and the customers both get the best out
+of the service provided because it allows the driver to prepare both physically
+and psychologically before the journey, schedule maintenance work in advance,
+schedule any stoppages during the journey and arrive at the intended destination
+on time
+        \n<b>Preparing for the Journey (Trip Planning)</b>
+\nIf the journey involves transportation of goods, then the driver should pick up the
+goods and get all the appropriate documentation. This may include
+\n• Name, address, phone and directions of the sender
+\n• Pick-up phone number
+\n• Appointment time for collecting and delivering the goods
+\n• Requirements for securing the load e.g. if it is fragile.
+\n• Other legal requirements if the goods are classified as Hazardous
+Material or if the goods are being transported outside the country of
+origin
+        \n<b>Managing the trip</b>
+\nWhile travelling, the following are factors will affect your how you manage your
+trip
+        \n<b>1. Distance to be travelled</b>
+\n• The longer the distance you travel the more preparations you will
+need to make. You may need a co-driver to take over from you if the
+distance being travelled is long
+        \n<b>2. Time/Traffic conditions during the journey</b>
+\n• If you travel during peak traffic hours your journey is likely to be longer
+\n• Travelling at night or early in the morning when there is limited visibility
+also affects you travel
+\n• It is best to plan ahead and choose the most convenient travel time for
+you
+        \n<b>3. Meals</b>
+\n• Plan ahead for where you will stop for meals
+\n• If using familiar roads then go to place you are familiar with
+\n• If you are using an unfamiliar route, it is best to plan ahead by using
+maps which can assist you in planning for where to stop
+        \n<b>4. Fatigue</b>
+\n• Do not start a journey when you are tired
+\n• If you feel tired during the journey, stop the vehicle at a convenient stop
+and get some rest and fresh air before proceeding on your journey
+        \n<b>5. Adverse weather conditions</b>
+\n• Avoid driving in adverse weather conditions
+\n• Take the right precautions if you get caught up in these conditions
+        \n<b>Managing Time</b>
+\nTo get to the intended destination within the least possible amount of time get
+directions before starting the journey. You can do this by consulting maps, GPS
+units and other drivers. Ensure that you know alternative routes so that you have
+options in case of road restrictions.
+        \n<b>Legal limits on Duty hours /Driving hours</b>
+\nThe driver is obligated to adhere to the rules in the Traffic Act. It is illegal to force
+a public service driver work for more than the designated hours provided.
+\nThe Traffic Act indicates that
+“66A. (
+\n1) No person shall drive a public service vehicle or a commercial vehicle
+for more than a total of eight hours in any period of twenty-four hours.
+\n(2) Any person who contravenes or fails to comply with subsection (1) shall be
+guilty of an offence and liable —…”
+Completing records of duty, work tickets or trip cards.
+After completing the journey, the driver of a public service vehicle should provide
+a summarized record of the trip.
+    </string>
+    <string name="chapter20a">
+\n<b>A customer </b> refers to anyone that you have to deal with in the course of riding or
+driving on the road. In this case, the customer may be a pedestrian, a passenger
+and other motorists
+\nThe following are essential skills any driver should have:
+\n• Communication skills
+\n• Handling customer expectations
+\n• Handling customers with special needs
+\n• Knowledge of sexual harassment and other forms of discrimination
+        \n<b>Communication Skills</b>
+\n<b>Communication</b> is the process of using words, sounds or behaviour to pass
+on information. Communication is necessary for all road users as it allows for
+shared and safe use of the road with minimal disruption. It is important to know
+and understand how other road users communicate so as to ensure safety and
+harmony along the road.
+        \n<b>Why you need to train on communication</b>
+\nThe traffic situation brings together different types of road users – pedestrians,
+cyclists, riders and other motorists – and also different types of individuals with
+varying personalities and varying needs. As such it is not enough to know the
+rules of the road. It is also important to learn how to interact with different types
+of individuals.
+\nThe following are some elements of communication that every road user should
+learn:
+\n• Patience
+\n• Attitude
+\n• Language
+        \n<b>Courtesy on the road</b>
+\nCourtesy involves applying all the elements of good communication - patience,
+having a positive attitude and using appropriate language.
+\n• Ensure that you get the right training and a license before you venture
+out on the road
+\n• You should always apply all road safety techniques as required for
+safe driving
+\n• Having a positive attitude enables you to complete tasks with
+confidence and to respond appropriately to instructions or signals
+from the authorities, road signals and other road users
+\n• Take responsibility for your actions when you are on the wrong. In the
+event that you are involved in an accident. Do not take the law into
+your own hands. Report the matter to the police
+\n• Be visible by positioning yourself correctly on the road and signalling
+where necessary
+\n• Ensure that your vehicle interior and exterior is clean, that the number
+plates are visible and that your passengers have comfortable seating
+and use their safety belts at all times
+\n• Ensure that you store away luggage in the boot
+        \n<b>Handling Customer Expectations</b>
+\nThe driver or rider should always prioritize their safety by ensuring that they
+observe all the correct safety procedures. This section primarily addresses the
+needs of customers who are paying for the service as passengers or owners of
+goods that need to be transported but all these guidelines can also be applied
+to private motorists and motorcycle riders who are ferrying goods or passengers.
+        \n<b>Before embarking on any trip ensure that you:</b>
+\n• Pick and drop off passengers or goods at the appropriate and
+designated points
+\n• Provide sufficient time for passengers to board and alight from the
+vehicle. Be patient, do not rush them
+\n• Assist passengers who may need help in embarking and disembarking
+from the motorcycle
+\n• Address customers in respectful language so that there is less room for
+misunderstanding
+\n• Be professional: This means giving clear information about the service
+you provide, the charges and any other detail that would ensure that
+you, the service provider, and the customer have clear expectations
+\n• Provide a helmet and reflective jacket for your passengers
+\n• Let your passengers know how to correctly position themselves on the
+motorcycle
+\n• Provide appropriate sitting for all passengers.
+\n• Where possible, and in particular for the PSV, ensure that you
+designate sitting for the elderly, sickly, and expectant mothers. Make
+arrangements for them to access seats that are most convenient
+for easy boarding and alighting. Give special consideration for
+passengers with disabilities and offer assistance where requested
+\n• Do not carry more passengers or goods than you are legally allowed
+to ferry
+\n• Know the weight restrictions related to your vehicle or motorcycle.
+Do not exceed this
+\n• Ensure that you are appropriately equipped to handle the goods to be
+ferried from one location to another
+        \n<b>Observe Personal Hygiene</b>
+\n• Ensure that you are smart, sober and clean. Provide a clean
+environment for both you and your passengers to work and travel
+comfortably. Your personal grooming projects your level of confidence,
+your attitude towards your work and it ultimately affects how you
+interact with your customers
+\n• Ensure that your vehicle or motorcycle is kept clean. Ensure that your
+number plates are visible and that your safety gear is also kept clean.
+This allows you to communicate effectively on the road; to see and be
+seen
+        \n<b>Time and Stress management skills</b>
+\n• Ensure that your passengers or goods are ferried within the
+expected time. Where unexpected circumstances cause a delay, let your
+customer know
+\n• Get sufficient rest and nutrition to that you are strong and healthy
+enough to ride your motorcycle.
+\n• Take breaks between journeys and only work within legally stipulated
+hours so that you, your passengers and goods are safe from the risk of
+accidents caused by fatigue
+\n<b>Sexual Harassment and Discrimination</b>
+        \n<b>Sexual Harassment</b>
+\nThis is a form of bullying or coercion which happens when a person directly or
+indirectly makes unwelcome requests for sexual intercourse, sexual contact, other
+sexual activity, uses written or spoken language of a sexual nature, uses visual
+material or shows physical behaviour of sexual nature
+        \n<b>Discrimination</b>
+\nOccurs when you chose to treat customers favourably or unfavourably because
+of their appearance, race, ethnic identity, gender or age.
+\n• Both sexual harassment and discrimination are anti social behaviours
+that discourage positive interaction on the road.
+\n• It is important to create a working environment where vulnerable
+passengers are safe and are less likely to encounter inappropriate
+behaviour, language or contact.
+\n• Ensure that you have a procedure in place to deal with sexual
+harassment and discrimination should you encounter it.
+\n• When faced with sexual harassment or discrimination, speak up,
+address the issue with the administrative authority and seek assistance
+from the police.
+        \n<b>Competitive Riding</b>
+\nThis is when motorcyclists ride abreast at unreasonable speed. No more than 2
+riders are allowed to ride abreast.
+        \n<b>Defensive riding</b> is important when in the following condition
+\n• Adverse weather conditions such as rain, fog or windy. In these
+cases, the road surface may change and so you need to apply different
+techniques to avoid danger
+\n• Different road conditions that may be difficult to manoeuvre such rough
+terrain, wet surface or sloping surfaces
+        \n<b>Defensive riding techniques</b>
+\n• Improving observation, anticipation and awareness consistent with the
+riding speed
+\n• Applying sound judgement of speed and distance
+\n• Don’t drive when you are tired, rest before any journey
+    </string>
+    <string name="chapter21a">
+\nIn order to get your riding licence, you should follow the exam registration
+procedure provided for by NTSA.
+\nPrepare adequately for both the practical and theory exam.
+On the day of the exam, go to the examination centre on time to avoid
+disappointment.</string>
+    <string name="hello_blank_fragmenthello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tool="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragments.chapterthree">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/_8sdp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="UNIT 3: MODEL TOWN"
+            android:textSize="@dimen/_20sdp"
+            android:textColor="@color/purple_500"
+            android:textStyle="bold" />
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adViewone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            ads:adSize="LARGE_BANNER"
+            android:layout_gravity="center"
+            ads:adUnitId="ca-app-pub-4814079884774543/3840483252"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chapter_three_a"
+            android:textSize="@dimen/_18sdp" />
+        <ImageView
+            android:layout_width="@dimen/_300sdp"
+            android:layout_height="@dimen/_300sdp"
+            android:src="@drawable/model_town_board"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chapter_three_b"
+            android:textSize="@dimen/_18sdp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_200sdp"
+                android:layout_weight="1"
+                android:src="@drawable/nocrossing"
+                tools:ignore="Suspicious0dp" />
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_200sdp"
+                android:layout_weight="1"
+                android:src="@drawable/crossing_allowed"
+                tools:ignore="Suspicious0dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_200sdp"
+                android:layout_weight="1"
+                android:src="@drawable/leftedge"
+                tools:ignore="Suspicious0dp" />
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_200sdp"
+                android:layout_weight="1"
+                android:src="@drawable/channelizing_island"
+                tools:ignore="Suspicious0dp" />
+        </LinearLayout>
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adViewtwo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            ads:adSize="LARGE_BANNER"
+            android:layout_gravity="center"
+            ads:adUnitId="ca-app-pub-4814079884774543/3840483252"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chapter_three_c"
+            android:textSize="@dimen/_18sdp" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_200sdp"
+                android:layout_weight="1"
+                android:src="@drawable/noovertaking"
+                tools:ignore="Suspicious0dp" />
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_200sdp"
+                android:layout_weight="1"
+                android:src="@drawable/noovertakingorcrossing"
+                tools:ignore="Suspicious0dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_200sdp"
+                android:layout_weight="1"
+                android:src="@drawable/channelizing_island_emergency"
+                tools:ignore="Suspicious0dp" />
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_200sdp"
+                android:layout_weight="1"
+                android:src="@drawable/channelizing_island_drive_over"
+                tools:ignore="Suspicious0dp" />
+        </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chapter_three_d"
+            android:textSize="@dimen/_18sdp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chapter_three_e"
+            android:textSize="@dimen/_18sdp" />
+        <ImageView
+            android:layout_width="@dimen/_200sdp"
+            android:layout_height="@dimen/_200sdp"
+            android:src="@drawable/roundabout" />
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adViewthree"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            ads:adSize="LARGE_BANNER"
+            android:layout_gravity="center"
+            ads:adUnitId="ca-app-pub-4814079884774543/3840483252"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chapter_three_f"
+            android:textSize="@dimen/_18sdp" />
+        <com.google.android.gms.ads.AdView
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adViewfour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            ads:adSize="LARGE_BANNER"
+            android:layout_gravity="center"
+            ads:adUnitId="ca-app-pub-4814079884774543/3840483252"/>
+    </LinearLayout>
+
+</ScrollView >
